@@ -2,7 +2,7 @@
 #### Software Development I
 <br />
 <br />
-> This repository includes most file of my (Computer Science) Software Development I
+This repository includes most file of my (Computer Science) Software Development I
 module at the University of Westminster.
 <br />
 
